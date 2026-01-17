@@ -1,0 +1,38 @@
+[
+  {
+    "dni": 93988026,
+    "nombre": "Lucia Guerra",
+    "email": "gd.lucia@gmial.com",
+    "librosPrestados": [
+      {
+        "idLibro": 8,
+        "titulo": "EN EL LIMBO",
+        "fechaPrestamo": "2026-01-04"
+      }
+    ]
+  },
+  {
+    "dni": 51585585,
+    "nombre": "Eloy Alvarez",
+    "email": "dkdsksld",
+    "librosPrestados": [
+      {
+        "idLibro": 7,
+        "titulo": "DIBUJOS ANIMADOS, EL DIBUJO DE HISTORIETAS A SU ALCANCE.",
+        "fechaPrestamo": "2026-01-04"
+      }
+    ]
+  },
+  {
+    "dni": 53957582,
+    "nombre": "Amadeo Alvarez Guerra",
+    "email": "dakjdflajs",
+    "librosPrestados": []
+  },
+  {
+    "dni": 515858585,
+    "nombre": "Eloy Alvarez Guerra",
+    "email": "dkajflsjjsd",
+    "librosPrestados": []
+  }
+]
